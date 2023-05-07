@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week14OOP", "Week14OOP\Week14OOP.csproj", "{686D382F-E88F-4F2B-961E-7F2AF29338A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iseseisev test", "Iseseisev test\Iseseisev test.csproj", "{A4099F56-907E-4964-9FB3-76A0E6F5D68C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686D382F-E88F-4F2B-961E-7F2AF29338A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686D382F-E88F-4F2B-961E-7F2AF29338A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686D382F-E88F-4F2B-961E-7F2AF29338A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686D382F-E88F-4F2B-961E-7F2AF29338A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4099F56-907E-4964-9FB3-76A0E6F5D68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4099F56-907E-4964-9FB3-76A0E6F5D68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4099F56-907E-4964-9FB3-76A0E6F5D68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4099F56-907E-4964-9FB3-76A0E6F5D68C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E0093A-52AF-4E95-A3AE-D3D38C78A737}
+	EndGlobalSection
+EndGlobal
